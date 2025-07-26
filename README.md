@@ -10,15 +10,6 @@ Parken is an iOS application developed as a final project for the Information Sy
 
 ![Page 04](./docs//04.png)
 
-Some screenshots:
-
-![Page 01](./screenshots/0%20splash.png)
-
-![Page 02](./screenshots/1%20access.png)
-
-![Page 03](./screenshots/3.2%20home.png)
-
-![Page 04](./screenshots/7%20plan.png)
 
 ## Features
 
