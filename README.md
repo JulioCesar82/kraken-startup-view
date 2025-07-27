@@ -74,6 +74,21 @@ For more detailed information about the project, please refer to the following d
 *   [Payment Feature](docs/features/payment.md)
 *   [Booking and Confirmation Feature](docs/features/booking.md)
 
+## Screenshots
+
+| Splash Screen | Access | Home |
+| :---: | :---: | :---: |
+| <img src="screenshots/0 splash.png" width="200"> | <img src="screenshots/1 access.png" width="200"> | <img src="screenshots/3 home.png" width="200"> |
+
+| Menu | Wallet | Garage |
+| :---: | :---: | :---: |
+| <img src="screenshots/4 menu.png" width="200"> | <img src="screenshots/5 wallet.png" width="200"> | <img src="screenshots/6 garage.png" width="200"> |
+
+## Current project team members
+
+* [JulioCesar82](https://github.com/JulioCesar82) -
+**Julio Ávila** <https://www.linkedin.com/in/juliocesar82>
+
 ## How to Contribute
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -87,13 +102,3 @@ Contributions are what make the open-source community such an amazing place to l
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Screenshots
-
-| Splash Screen | Access | Home |
-| :---: | :---: | :---: |
-| <img src="screenshots/0 splash.png" width="200"> | <img src="screenshots/1 access.png" width="200"> | <img src="screenshots/3 home.png" width="200"> |
-
-| Menu | Wallet | Garage |
-| :---: | :---: | :---: |
-| <img src="screenshots/4 menu.png" width="200"> | <img src="screenshots/5 wallet.png" width="200"> | <img src="screenshots/6 garage.png" width="200"> |
